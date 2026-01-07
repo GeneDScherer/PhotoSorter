@@ -1,0 +1,12 @@
+ExifRead==3.0.0
+hachoir==3.3.0
+Pillow==10.3.0
+pillow-heif==0.16.0
+tqdm==4.66.4
+piexif==1.1.3
+rawpy==1.2.2
+imageio==2.31.4
+imageio-ffmpeg==0.4.10
+numpy==1.26.4
+pyheif==0.6.1
+pyraw==0.3.0
